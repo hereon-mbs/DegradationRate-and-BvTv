@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Schimek"
+  given-names: "Sven"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Marinho-Lopez"
+  given-names: "André"
+ 
+title: "DegradationRate-and-BvTv of micro-CT image data"
+version: 2.0.4
+date-released: 2025-06-19
+url: "https://github.com/hereon-mbs/DegradationRate-and-BvTv/"
